@@ -1,0 +1,12 @@
+<!-- -->
+
+<launch>
+	<node pkg="image_get" type="image_get_node" name="image_get_node" output="screen">
+		<param name ="image_topic" value="image_get"/> 
+	</node>
+	<node pkg="remove_fog" type="remove_fog.py" name="remove_fog" output="screen"> 
+	</node>
+
+
+</launch>
+

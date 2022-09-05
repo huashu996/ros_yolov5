@@ -1,0 +1,8 @@
+prefix=/home/cxl/ros_yolov5/devel
+
+Name: image_get
+Description: Description of image_get
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

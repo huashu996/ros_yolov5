@@ -1,0 +1,8 @@
+prefix=/home/cxl/ros_yolov5/devel
+
+Name: rem_fog
+Description: Description of rem_fog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

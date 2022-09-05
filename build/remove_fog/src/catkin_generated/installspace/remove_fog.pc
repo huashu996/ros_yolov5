@@ -1,0 +1,8 @@
+prefix=/home/cxl/ros_yolov5/install
+
+Name: remove_fog
+Description: Description of remove_fog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

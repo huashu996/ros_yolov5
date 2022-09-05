@@ -1,0 +1,8 @@
+prefix=/home/cxl/ros_yolov5/install
+
+Name: image_pretreatment
+Description: Description of image_pretreatment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

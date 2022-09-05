@@ -1,0 +1,8 @@
+prefix=/home/cxl/ros_yolov5/devel
+
+Name: video_capture
+Description: Description of video_capture
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
